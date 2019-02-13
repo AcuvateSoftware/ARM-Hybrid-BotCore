@@ -1,0 +1,7 @@
+{
+  "type": "Botcore deployment with Hybrid connector",
+  "itemDisplayName": "Provision the necessary resources for the deployment of Botcore into Azure",
+  "description": "This template provisions an App service plan, Function app, Storage account, Redis cache, Server, SQL DatabaseProvisions App service plan, Web app, SQL database, Storage account, Redis cache, Function App& Cognitive Services for BotCore deployment.",
+  "githubUsername": "AcuvateSoftware",
+  "dateUpdated": "February-13, 2018"
+}
